@@ -50,3 +50,58 @@ Had got no business to be there
         
 ## Last Verse
 <!--Put a short poem you created using ChatGPT of 20-30 lines,here!-->
+ In the realm of numbers, where patterns reside,
+Lies a world of insight, where facts coincide.
+Statistics, the language of data profound,
+Unveils tales of knowledge, astutely renowned.
+
+With meticulous measures, we gather the truth,
+Sampling and surveys, revealing the sleuth.
+In each data point, a story to be told,
+Hidden in the trends, mysteries unfold.
+
+Regression lines, connecting dots with grace,
+Predicting outcomes, with confident embrace.
+Correlation whispers, relationships clear,
+As variables dance, their secrets appear.
+
+Normal distributions, bell curves so fair,
+Dispensing probabilities with utmost care.
+Standard deviations, a spread's embrace,
+Confidence intervals, framing the space.
+
+Confounding factors, lurking in the maze,
+Seeking to distort, creating a haze.
+But through careful controls, we discern the lies,
+Revealing the essence, where clarity lies.
+
+Hypotheses tested, significance revealed,
+Drawing conclusions, as truths are unsealed.
+P-values, alphas, decisions to make,
+Guiding our judgment, ensuring no mistake.
+
+From means to medians, to modes we confer,
+Centrality measured, as the data stir.
+Skewness and kurtosis, shapes that they bear,
+Defining the distribution, with utmost care.
+
+ANOVA and chi-square, tests of great might,
+Uncovering patterns, within plain sight.
+Degrees of freedom, freedom to explore,
+Unleashing the power, to know even more.
+
+Statistical power, a force to behold,
+Determining sample sizes, a story unfolds.
+Type I, Type II errors, beware their sting,
+Balancing the trade-offs that uncertainty brings.
+
+As statisticians, we strive to decode,
+The intricacies of life, in each data node.
+To unravel mysteries, with skill and grace,
+Transforming numbers into knowledge's embrace.
+
+For in statistics, a science profound,
+Lies the beauty of patterns, so perfectly found.
+With every calculation, we strive to convey,
+The wonders of numbers, in our statistical ballet.   
+    
